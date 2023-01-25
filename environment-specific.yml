@@ -1,0 +1,11 @@
+name: cs105-g5
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib

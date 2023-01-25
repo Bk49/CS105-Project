@@ -1,0 +1,3 @@
+echo starting up project space...
+call conda activate cs105-g5
+call jupyter lab
